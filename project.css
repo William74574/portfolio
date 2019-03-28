@@ -1,0 +1,66 @@
+.row{
+  width: 100%;
+  height: 450px;
+}
+.col{
+  height: 100%;
+  width: 49%;
+  border: 2px solid black;
+  border-color: gray;
+  display: inline-block;
+  float: left;
+}
+
+#box1{
+  width: 30%;
+  color: violet;
+  background-image: url("https://www.petguide.com/wp-content/uploads/2013/02/pug1.jpg");
+  background-size: cover;
+}
+
+#box2{
+  width: 69%;
+  background-size: cover;
+}
+
+#box3{
+  width: 50%;
+  background-size: cover;
+}
+
+#box4{
+  width: 49%;
+  background-size: cover;
+}
+
+body{
+  background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/iPqZZmF/plain-simple-white-spheres-stars-starfield-flight-background-loop-rotate-right_v33dgdndl__F0000.png");
+  font-family: sans-serif;
+}
+
+h1{
+  color: #069E33;
+  font-size: 45px;
+    text-shadow: 4px 3px white;
+}
+
+marquee{
+  color: #4DFF00;
+  font-size: 45px;
+}
+
+p{
+  color: #069E33;
+  font-size: 30px
+}
+
+#image{
+  background-image: url
+}
+
+#button{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-left: 40%
+}
